@@ -1,0 +1,9 @@
+{
+  "name": "codecademy_meal-maker",
+  "version": "0.0.0",
+  "description": "Codecademy_MealMaker",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
